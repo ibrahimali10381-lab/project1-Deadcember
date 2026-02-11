@@ -220,6 +220,14 @@ textFont(Humor);
 textSize(120);
 text("Humor",150,950);
 
+//Gun
+fill(20);
+textFont(Humor);
+textSize(80);
+text("G",605,810);
+text("u",650,820);
+text("m",695,830);
+
 
 
 //Target
