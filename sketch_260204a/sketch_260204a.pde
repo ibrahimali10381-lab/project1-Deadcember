@@ -10,6 +10,7 @@ background(10,0,86);
 PFont Calender = createFont("KingsmanDemo-1GVgg.ttf", 60);
 PFont Farm = createFont("Farmhouse.otf", 80);
 PFont Nokia = createFont("NokiaKokia.ttf",10);
+PFont Humor = createFont("Hey Comic.ttf",10);
 
 
 
@@ -213,6 +214,11 @@ fill(0,0,0);
 text("Deadcember",370,390);
 
 
+//Value
+fill(255);
+textFont(Humor);
+textSize(120);
+text("Humor",150,950);
 
 
 
